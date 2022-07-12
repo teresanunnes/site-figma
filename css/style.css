@@ -1,0 +1,117 @@
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+button {
+    border: none;
+    cursor: pointer;
+}
+
+.bg-primary {
+    background-color: #f04588 !important;
+    margin-bottom: 20px;
+}
+
+.logo {
+    max-width: 22%;
+}
+
+.title {
+    font-weight: 900;
+    font-size: 34px;
+    line-height: 41px; 
+}
+
+.description1 {
+    font-family: 'Lato';
+    font-size: 14.75px;
+    line-height: 26px;
+}
+
+.description2 {
+    font-family: 'Lato';
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 23px;
+}
+
+.description2 b {
+    font-family: 'Lato';
+    font-weight: 700;
+}
+
+.description2 u {
+    font-family: 'Lato';
+}
+
+.btn-primary{
+    background-color: #F22C7A;
+    border-color: #F22C7A;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+}
+
+.btn-primary:hover {
+    background-color: #F22C7A !important;
+    border-color: #F22C7A;
+}
+
+.description3 {
+    font-family: 'Inter';
+    font-weight: 900;
+    font-size: 34px;
+    line-height: 41px;
+}
+
+.description4 {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 17.5px;
+    line-height: 21px;
+}
+
+.description5 {
+    font-family: 'Lato';
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.btn-vacancy{
+    font-family: 'Lato';
+    font-weight: 900;
+    font-size: 14.5px;
+    color: #F22C7A;
+    line-height: 20px;
+    background-color: #FFFFFF;
+    border-radius: 50px;
+}
+
+.btn-vacancy:hover {
+    color: #FFFFFF;
+    background-color: #4DEAFF;
+}
+
+.px-7 {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.description6 {
+    font-family: 'Lato';
+    font-size: 11.9px;
+    line-height: 20px;
+    color: #3F3F3F;
+}
+
+.description7 {
+    font-family: 'Lato';
+    font-size: 16.2px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #3F3F3F;
+}
